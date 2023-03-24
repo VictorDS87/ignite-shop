@@ -1,4 +1,5 @@
 import { styled } from "../styles"
+import logoImg from "../assets/logo.svg"
 
 const Button = styled('button', {
   backgroundColor: '$green300',
