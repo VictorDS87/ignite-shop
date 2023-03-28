@@ -8,8 +8,9 @@ const nextConfig = {
       'files.stripe.com',
     ],
   },
-
+  
   experimental: {
+    newNextLinkBehavior: true,
     images: {
       allowFutureImage: true,
     },
